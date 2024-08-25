@@ -1,4 +1,4 @@
 .vscode
-app/
+app
 api-express/node_modules
 app-vue/node_modules
